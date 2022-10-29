@@ -1,1 +1,2 @@
-In this file I am going to complete the Javascript tutorial
+In this file I am going to complete the Javascript tutorial with all contents and components.
+We will follow up with all the modules from youtube. 
