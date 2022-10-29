@@ -1,2 +1,3 @@
 In this file I am going to complete the Javascript tutorial with all contents and components.
 We will contiue with youtube. 
+We need to validate the change pull from Github to local. 
