@@ -1,0 +1,6 @@
+git restore --staged <filename> ---> To restore the changes from staging to working files.
+git rm "<fileName>" ---> To remove the file from working area. 
+git restore "<fileName>" ---> To restore the file which are deleted.
+git mv "oldFileName" "New FileName" ---> Modify the file name in staging/working area.
+git log, git log --oneline ---> are the logs of all git commits.
+git commit -m "message" --amend ---> modify the commit name in commit area.
