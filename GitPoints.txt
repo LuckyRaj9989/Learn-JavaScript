@@ -4,3 +4,13 @@ git restore "<fileName>" ---> To restore the file which are deleted.
 git mv "oldFileName" "New FileName" ---> Modify the file name in staging/working area.
 git log, git log --oneline ---> are the logs of all git commits.
 git commit -m "message" --amend ---> modify the commit name in commit area.
+git config --global user.Name "<UserName>" ---> creates the configuration with user name.
+git config --global user.Email "<UserEmail>" ---> creates the configuration with user email.
+git init ---> intialize the repository in the folder. 
+git status ---> we can check the files which are tracked, untracked to staging.
+git log ---> we can have the details of all components with commit labels. 
+git add ./git add -all ---> All the edited/Modified files to staging before commit.
+git add <filename> ---> Add the restricted file to staging.
+git commit -m "<MessageName>" ---> move all the staging files to commit area.
+git commit -am "<MessageName>" ---> Move all the working files to commit area bypassing the staging.
+
