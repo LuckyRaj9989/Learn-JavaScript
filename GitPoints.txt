@@ -12,5 +12,6 @@ git log ---> we can have the details of all components with commit labels.
 git add ./git add -all ---> All the edited/Modified files to staging before commit.
 git add <filename> ---> Add the restricted file to staging.
 git commit -m "<MessageName>" ---> move all the staging files to commit area.
-git commit -am "<MessageName>" ---> Move all the working files to commit area bypassing the staging.
-
+git commit -am "<MessageName>" ---> Move all the work files to commit area bypassing the staging.
+git branch ---> gives the list branches in git.
+git checkout "<branchName>" ---> Logged in git with branchName folder. 
