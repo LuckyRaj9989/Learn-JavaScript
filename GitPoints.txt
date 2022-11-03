@@ -16,3 +16,6 @@ git commit -am "<MessageName>" ---> Move all the work files to commit area bypas
 git branch ---> gives the list branches in git.
 git checkout "<branchName>" ---> Logged in git with branchName folder.
 git branch -m <name> ---> It will rename the banch name. 
+git remote add origin <Repositorylink> ---> Creates a new git hub account local area.
+git push -u origin main ---> push the main branch changes to git hub repository.
+git remote ---> list out all the repositories for the github account.
