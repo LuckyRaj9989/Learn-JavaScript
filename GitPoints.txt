@@ -14,4 +14,5 @@ git add <filename> ---> Add the restricted file to staging.
 git commit -m "<MessageName>" ---> move all the staging files to commit area.
 git commit -am "<MessageName>" ---> Move all the work files to commit area bypassing the staging.
 git branch ---> gives the list branches in git.
-git checkout "<branchName>" ---> Logged in git with branchName folder. 
+git checkout "<branchName>" ---> Logged in git with branchName folder.
+git branch -m <name> ---> It will rename the banch name. 
